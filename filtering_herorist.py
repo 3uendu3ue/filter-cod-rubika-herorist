@@ -215,7 +215,7 @@ print(" ")
 print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
-git clone https://github.com/3uendu3ue/hack-filtring-rubika-herorist
+git clone https://github.com/3uendu3ue/filtring-rubika-herorist
 cd filtering_herorist
 python filtering_herorist.py
 """)
