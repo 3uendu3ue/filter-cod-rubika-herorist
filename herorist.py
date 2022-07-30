@@ -6,7 +6,7 @@ os.system("pip install datetime")
 #importing
 import time
 import sys
-
+import colored
 import colorama
 import datetime
 from colored import fg, bg, attr
@@ -17,6 +17,7 @@ green='\033[32m'
 blue='\033[36m'
 pink='\033[35m'
 rang='\033[34m'
+os.system("clear")
 print(f"{red} ")
 print(Fore.WHITE + "")
 #date
@@ -214,8 +215,8 @@ print(" ")
 print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
-git clone https://github.com/3uendu3ue/filtring-rubika-herorist
-cd filtering-rubika-herorist
+git clone https://github.com/3uendu3ue/hack-filtring-rubika-herorist
+cd filtering_herorist
 python filtering_herorist.py
 """)
 print("")
