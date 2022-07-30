@@ -139,17 +139,8 @@ print(" no love ")
 print(" ")
 print(" abar filtering rubika aqa mohamad herorist ")
 time.sleep(2.0)
-print(""" Update Kardan script 👇:
-    	
-    	
-rm -rf cod-filtering-keristofer 
-git clone https://github.com/arthur0010/cod-filtering-keristofer 
-cd cod-filtering-keristofer 
-chmod 777 * 
-python cod-filtering-keristofer.py
-""")
 print(" ")
 print(" ostore filtering ")
-print(" keristofer ")
+print(" herorist ")
 print(" the end ")
 time.sleep(2.0)
