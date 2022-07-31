@@ -6,7 +6,6 @@ os.system("pip install datetime")
 #importing
 import time
 import sys
-import colorama
 import datetime
 from colored import fg, bg, attr
 from colorama import Fore, Back, Style
